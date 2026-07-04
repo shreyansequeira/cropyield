@@ -11,5 +11,4 @@ pip install pandas numpy matplotlib seaborn scikit-learn tensorflow
 ensure all installed files are in the same directory before running
 
 Code generated manually is in the file crop_predict.ipynb
-Code generated via LLM is in the file AI_Predictor.ipynb
 
